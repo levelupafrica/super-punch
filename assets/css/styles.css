@@ -23,9 +23,10 @@ header{
 }
 .nav-links li {
     display: inline;
+    
 }
 .nav-links li a{
-    margin:0px 8px;
+    padding: 10px;
     color: white;
     text-decoration: none;
 }
