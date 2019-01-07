@@ -29,3 +29,7 @@ header{
     color: white;
     text-decoration: none;
 }
+
+.nav-links a:hover{
+    color: black;
+}
