@@ -7,6 +7,3 @@
 * Style nav bar for large screen (this should be the default styling).
 * Make menu responsive.
 * Add mobile menu.
-
-
-<!-- GITHUB DESKTOP SETUP -->
